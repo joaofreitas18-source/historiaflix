@@ -1,20 +1,25 @@
-    body{
+    body {
         color: rgb(0, 0, 0);
         background: rgba(148, 0, 0, 0.842);
         margin: 0px;
         font-family: "Bitcount Prop Single Ink", sans-serif;
     }
-    header{
-        border-bottom: solid 2px rgb(255, 252, 252) ;
-        padding: 20px ;
+
+    header {
+        border-bottom: solid 2px rgb(255, 252, 252);
+        padding: 20px;
         font-size: 32px;
-        color: rgb(0, 0, 0); 
+        color: rgb(0, 0, 0);
     }
 
-    section{
+    section {
         background: orangered;
         padding-bottom: 80px;
         padding-top: 80px;
         display: flex;
-        justify-content: center; 
+        justify-content: center;
+    }
+
+    .chamad-texto {
+        margin-right: 5%;
     }
