@@ -1,5 +1,5 @@
     body{
-        color: rgba(0, 0, 0, 0.897);
+        color: rgb(0, 0, 0);
         background: rgba(148, 0, 0, 0.842);
         margin: 0px;
         font-family: "Bitcount Prop Single Ink", sans-serif;
@@ -8,7 +8,7 @@
         border-bottom: solid 2px rgb(255, 252, 252) ;
         padding: 20px ;
         font-size: 32px;
-        color: black; 
+        color: rgb(0, 0, 0); 
     }
 
     section{
@@ -16,5 +16,5 @@
         padding-bottom: 80px;
         padding-top: 80px;
         display: flex;
-        justify-content: center;
+        justify-content: center; 
     }
